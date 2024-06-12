@@ -1,5 +1,5 @@
 
-# Solana Smart Contract Deployment
+# Introduction to Deploying Rust Contracts on Solana: A Step-by-Step Example
 
 ## Contract Deployment Step
 ### 1. Setting Up Your Project
